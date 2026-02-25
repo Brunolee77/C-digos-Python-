@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Funcionando, Bruno!\n");
+    printf("Agora esta 100%% funcionando no VS Code!\n");
     return 0;
 }
